@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MyData\\Android\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_articles.xml",
+        "source": "C:\\MyData\\Android\\Fragment\\app\\src\\main\\res\\layout\\news_articles.xml"
+    },
+    {
+        "merged": "C:\\MyData\\Android\\Fragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_view.xml",
+        "source": "C:\\MyData\\Android\\Fragment\\app\\src\\main\\res\\layout\\article_view.xml"
+    }
+]
