@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\MyData\\Android\\RetrieveContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_fragment.xml",
+        "source": "C:\\MyData\\Android\\RetrieveContactsList\\app\\src\\main\\res\\layout\\contact_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\MyData\\Android\\RetrieveContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "C:\\MyData\\Android\\RetrieveContactsList\\app\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "C:\\MyData\\Android\\RetrieveContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail_fragment.xml",
+        "source": "C:\\MyData\\Android\\RetrieveContactsList\\app\\src\\main\\res\\layout\\contact_detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\MyData\\Android\\RetrieveContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_twopanes.xml",
+        "source": "C:\\MyData\\Android\\RetrieveContactsList\\app\\src\\main\\res\\layout\\activity_main_twopanes.xml"
+    },
+    {
+        "merged": "C:\\MyData\\Android\\RetrieveContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\MyData\\Android\\RetrieveContactsList\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\MyData\\Android\\RetrieveContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail_item.xml",
+        "source": "C:\\MyData\\Android\\RetrieveContactsList\\app\\src\\main\\res\\layout\\contact_detail_item.xml"
+    }
+]
